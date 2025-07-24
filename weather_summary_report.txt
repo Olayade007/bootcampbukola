@@ -1,0 +1,4 @@
+Weather Summary Report
+Error fetching weather for London
+Error fetching weather for New York
+Error fetching weather for Tokyo
